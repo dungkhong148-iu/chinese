@@ -1,0 +1,131 @@
+{
+  "session_id": "arc_taipei_night_001",
+  "title": "HÀNH TRÌNH ĐÀI BẮC: ĐÊM ĐẦU TIÊN VÀ LẠC BƯỚC CHỢ ĐÊM NINH HẠ",
+  "story_arc": "Bạn vừa đáp xuống sân bay Đào Viên lúc 22h đêm, bụng đói cồn cào. Bạn bắt taxi vào chợ đêm Ninh Hạ, gặp phải sự cố tiền mặt, đối mặt với bà chủ quầy khó tính và xoay xở hòa nhập với người bản xứ.",
+  "started_at": "2026-11-23T23:22:43.971937",
+  "completed_at": "2026-11-24T00:23:12.103713",
+  "total_questions": 10,
+  "duration_seconds": 3628.1,
+  "responses": [
+    {
+      "id": 1,
+      "act": 1,
+      "act_title": "[HỒI 1/10: HẠ CÁNH VÀ BẮT TAXI ĐÊM]",
+      "plot_progression": "Vừa kéo vali ra khỏi sảnh đến sân bay Đào Viên, một bác tài taxi lớn tuổi vẫy bạn với vẻ mặt sốt sắng.",
+      "context": "Sảnh chờ taxi sân bay Đào Viên lúc 22h15",
+      "speaker": "Bác tài taxi Lâm",
+      "hanzi": "少年欸，要去哪裡？行李放後車廂喔！",
+      "target": "司機大哥，我要去寧夏夜市附近，請問可以刷卡嗎？",
+      "user_answer": "司機先生，請問你知道去哪裡吃一點嗎，我有餓",
+      "time_spent_seconds": 177.7
+    },
+    {
+      "id": 2,
+      "act": 2,
+      "act_title": "[HỒI 2/10: BIẾN CỐ MÁY QUẸT THẺ HỎNG]",
+      "plot_progression": "Bác tài gãi đầu nhìn máy POS trên táp-lô, có vẻ máy bị mất sóng.",
+      "context": "Trong xe taxi đang lăn bánh trên đường cao tốc",
+      "speaker": "Bác tài taxi Lâm",
+      "hanzi": "糟糕，這台刷卡機好像連不上網路捏！肖年欸，你有現金嗎？",
+      "target": "不好意思，我身上只有大鈔，可以稍微停一下前面的7-11讓我換錢嗎？",
+      "user_answer": "我只有大鈔，你可以換錢嗎？",
+      "time_spent_seconds": 2323.8
+    },
+    {
+      "id": 3,
+      "act": 3,
+      "act_title": "[HỒI 3/10: CỬA HÀNG 7-ELEVEN DỒN DẬP HỎI]",
+      "plot_progression": "Bạn chạy vội vào 7-Eleven mua chai nước suối để đổi tiền, nhân viên bắn ra một tràng câu hỏi quen thuộc.",
+      "context": "Quầy thu ngân 7-Eleven gần lối vào chợ đêm",
+      "speaker": "Nhân viên 7-11",
+      "hanzi": "歡迎光臨！一共三十五元。需要買袋子嗎？發票要存載具還是印出來？",
+      "target": "不用袋子，發票印出來就好。這是一千塊，麻煩幫我多找一點百鈔，謝謝！",
+      "user_answer": "不用袋子，你還給我百鈔可以嗎？",
+      "time_spent_seconds": 287.3
+    },
+    {
+      "id": 4,
+      "act": 4,
+      "act_title": "[HỒI 4/10: THANH TOÁN TIỀN TAXI & LỜI CHÚC BẢN XỨ]",
+      "plot_progression": "Bạn quay lại xe, đưa tiền cho bác tài. Bác tài mỉm cười xua tay khi thấy bạn chạy vội.",
+      "context": "Trước cổng chợ đêm Ninh Hạ",
+      "speaker": "Bác tài taxi Lâm",
+      "hanzi": "車資四百六十塊，找你五百四十塊。肖年欸，逛得開心點喔！",
+      "target": "謝謝司機大哥，您辛苦了，開車小心喔！",
+      "user_answer": "好啊，辛苦你了，你小心開車吧",
+      "time_spent_seconds": 74.3
+    },
+    {
+      "id": 5,
+      "act": 5,
+      "act_title": "[HỒI 5/10: QUÁN HÀU CHIÊN ĐÔNG NGHỊT VÀ BÀ CHỦ HỐI THÚC]",
+      "plot_progression": "Chợ đêm nghi ngút khói thơm. Bạn ghé vào quán hàu chiên nổi tiếng nhất, bà chủ đang lật bánh thoăn thoắt và hối bạn gọi món.",
+      "context": "Quầy hàu chiên (蚵仔煎) chợ đêm",
+      "speaker": "Bà chủ quán họ Trần",
+      "hanzi": "來來來，內用還是外帶？要吃什麼快點講喔，後面很多人在排捏！",
+      "target": "老闆娘，我要一份蚵仔煎，內用，不要放辣，謝謝！",
+      "user_answer": "你要點一份，外帶，不要放辣，你做好好一點吧，我肚子最近不好",
+      "time_spent_seconds": 133.5
+    },
+    {
+      "id": 6,
+      "act": 6,
+      "act_title": "[HỒI 6/10: TRANH CHẤP CHỖ NGỒI VÀ HÓA GIẢI]",
+      "plot_progression": "Bạn vừa ngồi xuống một bàn trống thì hai bạn trẻ khác bước tới với vẻ mặt khó chịu vì tưởng bạn cướp bàn của họ.",
+      "context": "Bàn ăn chật hẹp trong hẻm chợ đêm",
+      "speaker": "Khách trẻ đi cùng",
+      "hanzi": "不好意思，這個位子是我們先看到的欸，你怎麼直接坐下來了？",
+      "target": "不好意思，剛才店員叫我坐這裡的。如果妳們不介意的話，要不要一起併桌坐？",
+      "user_answer": "兄弟，你不介意的話，可以跟我併桌，好不好",
+      "time_spent_seconds": 169.8
+    },
+    {
+      "id": 7,
+      "act": 7,
+      "act_title": "[HỒI 7/10: ĐĨA THỨC ĂN RA NHƯNG THIẾU ĐỒ DÙNG]",
+      "plot_progression": "Đĩa hàu chiên nóng hổi được bưng ra thơm phức, nhưng nhân viên phục vụ quên mang đũa và muỗng cho bạn.",
+      "context": "Bàn ăn chợ đêm đông đúc",
+      "speaker": "Bạn bàn bên (người vừa ghép bàn)",
+      "hanzi": "這家蚵仔煎超好吃的！欸，店家好像忘記給你餐具了喔？",
+      "target": "不好意思，店員，麻煩幫我拿一雙筷子和一個湯匙一下，謝謝！",
+      "user_answer": "味道真好，讓我叫他們拿來筷子",
+      "time_spent_seconds": 147.4
+    },
+    {
+      "id": 8,
+      "act": 8,
+      "act_title": "[HỒI 8/10: THỬ THÁCH ĐẬU PHỤ THỐI BẢN XỨ]",
+      "plot_progression": "Hai bạn trẻ ngồi cùng bàn gọi một đĩa đậu phụ thối chiên giòn, nhiệt tình gắp mời bạn nếm thử.",
+      "context": "Không khí rôm rả tại bàn ăn",
+      "speaker": "Bạn trẻ ghép bàn",
+      "hanzi": "帥哥，敢不敢吃臭豆腐？這家炸得很酥，配泡菜超讚的，請你吃一塊！",
+      "target": "真的假的？！那我不客氣囉，謝謝你們，你們太熱情了！",
+      "user_answer": "那我不客氣誒，UMM，不加呢，很好吃",
+      "time_spent_seconds": 78.8
+    },
+    {
+      "id": 9,
+      "act": 9,
+      "act_title": "[HỒI 9/10: TÍNH TIỀN VÀ XIN HÓA ĐƠN TRÚNG THƯỞNG]",
+      "plot_progression": "Ăn xong no nê, bạn đứng dậy ra quầy để thanh toán. Bà chủ đang bấm máy tính.",
+      "context": "Quầy thanh toán",
+      "speaker": "Bà chủ quán họ Trần",
+      "hanzi": "蚵仔煎一份八十塊。肖年欸，有吃飽沒？",
+      "target": "很好吃，CP值很高！老闆娘，算您一百塊，發票麻煩幫我印出來喔！",
+      "user_answer": "不錯老闆娘，別吃我再來",
+      "time_spent_seconds": 99.7
+    },
+    {
+      "id": 10,
+      "act": 10,
+      "act_title": "[HỒI 10/10: ĐIỆN THOẠI HẾT PIN VÀ HỎI ĐƯỜNG VỀ KHÁCH SẠN]",
+      "plot_progression": "Bước ra khỏi chợ đêm, điện thoại bạn sập nguồn. Bạn phải hỏi một bạn nữ bản xứ đường đi bộ ra ga tàu điện ngầm gần nhất.",
+      "context": "Góc phố ngoài chợ đêm Ninh Hạ lúc 23h30",
+      "speaker": "Cô gái đi dạo phố",
+      "hanzi": "不好意思，請問你有什麼事嗎？",
+      "target": "不好意思，我的手機沒電了，請問到捷運雙連站要怎麼走？走路大概要多久？",
+      "user_answer": "啊，我手機沒電了，請問從這裡到MRT站多久呢？",
+      "time_spent_seconds": 135.9
+    }
+  ]
+}

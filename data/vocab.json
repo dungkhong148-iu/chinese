@@ -1,0 +1,182 @@
+[
+  {
+    "hanzi": "珍珠奶茶",
+    "pinyin": "zhēnzhū nǎichá",
+    "han_viet": "Trân Châu Nãi Trà",
+    "meaning": "trà sữa trân châu",
+    "style": "Đài Loan / Đời sống",
+    "context": "我要一杯珍珠奶茶，半糖少冰。",
+    "status": "learning",
+    "created_at": "2026-11-22T20:00:00"
+  },
+  {
+    "hanzi": "外帶 / 內用",
+    "pinyin": "wàidài / nèiyòng",
+    "han_viet": "Ngoại Đái / Nội Dụng",
+    "meaning": "mang đi / dùng tại quán",
+    "style": "Đài Loan / Phổ thông",
+    "context": "老闆，這杯我要外帶，謝謝！",
+    "status": "learning",
+    "created_at": "2026-11-22T20:00:00"
+  },
+  {
+    "hanzi": "結帳 / 買單",
+    "pinyin": "jiézhàng / mǎidān",
+    "han_viet": "Kết Chướng / Mãi Đơn",
+    "meaning": "tính tiền, thanh toán",
+    "style": "結帳 (chuẩn Đài), 買單 (phổ thông/tiêu chuẩn)",
+    "context": "小姐，我們要結帳！",
+    "status": "learning",
+    "created_at": "2026-11-22T20:00:00"
+  },
+  {
+    "hanzi": "超雷",
+    "pinyin": "chāo léi",
+    "han_viet": "Siêu Lôi",
+    "meaning": "dở tệ, bẫy, tránh xa (quán xá, đồ ăn)",
+    "style": "Khẩu ngữ giới trẻ",
+    "context": "這家店評價超雷，不要去吃。",
+    "status": "new",
+    "created_at": "2026-11-22T23:00:00"
+  },
+  {
+    "hanzi": "搞定",
+    "pinyin": "gǎodìng",
+    "han_viet": "Hảo Định",
+    "meaning": "xong xuôi, giải quyết êm đẹp",
+    "style": "Khẩu ngữ công sở / đời sống",
+    "context": "這件事我已經搞定了，別擔心。",
+    "status": "new",
+    "created_at": "2026-11-22T23:00:00"
+  },
+  {
+    "hanzi": "划算",
+    "pinyin": "huásuàn",
+    "han_viet": "Hạch Toán / Hoa Toán",
+    "meaning": "hời, đáng tiền, có lợi",
+    "style": "Đời sống",
+    "context": "這家店又便宜又好吃，很划算！",
+    "status": "new",
+    "created_at": "2026-11-22T23:17:29.211222"
+  },
+  {
+    "hanzi": "稍微",
+    "pinyin": "shao1 wei1",
+    "han_viet": "Sảo Vi",
+    "meaning": "một chút",
+    "style": "Đời sống",
+    "context": "請稍微等我一下，馬上就好！",
+    "status": "new",
+    "created_at": "2026-11-23T00:00:28.248473"
+  },
+  {
+    "hanzi": "很扯",
+    "pinyin": "hěn chě",
+    "han_viet": "Hẩn Xỉ",
+    "meaning": "quá ảo, vô lý, quá đáng, xàm xí",
+    "style": "Khẩu ngữ Đài Loan",
+    "context": "這件事太扯了吧，怎麼可能？！",
+    "status": "new",
+    "created_at": "2026-11-23T00:04:39.336409"
+  },
+  {
+    "hanzi": "處理",
+    "pinyin": "chǔlǐ",
+    "han_viet": "Xử Lý",
+    "meaning": "xử lý, giải quyết (công việc, vấn đề)",
+    "style": "Công sở / Đời sống",
+    "context": "這件事情我會儘快處理。",
+    "status": "new",
+    "created_at": "2026-11-23T00:06:07.925217"
+  },
+  {
+    "hanzi": "司機",
+    "pinyin": "sījī",
+    "han_viet": "Ty Cơ / Tư Cơ",
+    "meaning": "tài xế, bác tài (taxi, xe buýt)",
+    "style": "Đời sống",
+    "context": "司機先生，麻煩前面路口停一下。",
+    "status": "new",
+    "created_at": "2026-11-23T00:07:25.136324"
+  },
+  {
+    "hanzi": "捷運",
+    "pinyin": "jiéyùn",
+    "han_viet": "Tiệp Vận",
+    "meaning": "(Đài Loan) hệ thống vận chuyển nhanh (MRT); tàu điện ngầm",
+    "style": "Đời sống",
+    "context": "搭捷運去台北車站很方便。",
+    "status": "new",
+    "created_at": "2026-11-23T00:36:31.846069"
+  },
+  {
+    "hanzi": "高鐵",
+    "pinyin": "gāotiě",
+    "han_viet": "Cao Thiết",
+    "meaning": "đường sắt cao tốc",
+    "style": "Đời sống",
+    "context": "我們坐高鐵去高雄只要一個半小時。",
+    "status": "new",
+    "created_at": "2026-11-23T00:37:01.562990"
+  },
+  {
+    "hanzi": "介意",
+    "pinyin": "jie4 yi4",
+    "han_viet": "Giới Ý",
+    "meaning": "để ý đến; phật ý; để tâm",
+    "style": "Đời sống",
+    "context": "",
+    "status": "new",
+    "created_at": "2026-11-24T00:25:59.783285"
+  },
+  {
+    "hanzi": "袋子",
+    "pinyin": "dai4 zi5",
+    "han_viet": "Đại Tử",
+    "meaning": "túi",
+    "style": "Đời sống",
+    "context": "",
+    "status": "new",
+    "created_at": "2026-11-24T00:26:27.071718"
+  },
+  {
+    "hanzi": "併",
+    "pinyin": "併桌",
+    "han_viet": "(ghép",
+    "meaning": "kết hợp; sáp nhập",
+    "style": "Đời sống",
+    "context": "",
+    "status": "new",
+    "created_at": "2026-11-24T00:27:31.336245"
+  },
+  {
+    "hanzi": "大鈔",
+    "pinyin": "",
+    "han_viet": "",
+    "meaning": "",
+    "style": "Đời sống",
+    "context": "",
+    "status": "new",
+    "created_at": "2026-11-24T00:30:15.491230"
+  },
+  {
+    "hanzi": "蚵仔煎",
+    "pinyin": "e2 zi3 jian1",
+    "han_viet": "Hà Tể Chiên",
+    "meaning": "(Đài Loan) trứng ốp la hàu (từ tiếng Đài Loan, phát âm Tai-lo [ô-á-tsian])",
+    "style": "Đời sống",
+    "context": "",
+    "status": "new",
+    "created_at": "2026-11-24T00:36:04.292950"
+  },
+  {
+    "hanzi": "不介意的話",
+    "pinyin": "",
+    "han_viet": "",
+    "meaning": "",
+    "style": "Đời sống",
+    "context": "",
+    "status": "new",
+    "created_at": "2026-11-24T00:37:49.092270"
+  }
+]

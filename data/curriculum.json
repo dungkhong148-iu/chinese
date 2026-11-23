@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "target_level": "A2 - Giao tiếp thực chiến & Phản xạ chuẩn Đài Loan",
+    "methodology": "Học theo cụm phản xạ (Sentence Chunks) để tư duy trực tiếp, không dịch từ tiếng Việt sang"
+  },
+  "levels": [
+    {
+      "level": "A2_CORE",
+      "title": "Cốt lõi phản xạ khẩu ngữ Đài Loan (Phản ứng tự nhiên)",
+      "units": [
+        {
+          "id": "A2_REACTIONS",
+          "title": "Phản ứng tức thì cửa miệng (Catchphrases & Fillers)",
+          "context": "Khi nghe người khác nói chuyện, không ậm ừ dịch mà bắn ra ngay phản ứng tự nhiên của người Đài.",
+          "chunks": [
+            {
+              "chunk": "真的假的？！",
+              "pinyin": "Zhēn de jiǎ de?!",
+              "meaning": "Thật á?! / Thật hay giả đấy?!",
+              "vs_textbook": "Người Đài dùng thay cho '真的嗎？' trong 90% giao tiếp thường ngày.",
+              "tips": "Biểu cảm ngạc nhiên số 1 tại Đài Loan."
+            },
+            {
+              "chunk": "傻眼...",
+              "pinyin": "shǎyǎn...",
+              "meaning": "Cạn lời / Đơ người / Hạn hán lời",
+              "vs_textbook": "Chuẩn giới trẻ và công sở, thay vì nói '我無話可說'.",
+              "tips": "Dùng khi gặp chuyện vô lý, ngớ ngẩn."
+            },
+            {
+              "chunk": "誇張欸！",
+              "pinyin": "kuāzhāng èi!",
+              "meaning": "Quá đáng thế / Ảo thật đấy!",
+              "vs_textbook": "Không chỉ là 'khoa trương', mà mang nghĩa 'quá mức chấp nhận'.",
+              "tips": "Thêm âm đuôi '欸' (èi) nghe cực kỳ bản xứ."
+            },
+            {
+              "chunk": "沒差啦！",
+              "pinyin": "méi chà la!",
+              "meaning": "Chẳng sao cả / Sao cũng được / Không ảnh hưởng gì.",
+              "vs_textbook": "Thực tế và thoải mái hơn hẳn '沒關係' hay '無所謂'.",
+              "tips": "Thêm '啦' (la) để câu nhẹ nhàng."
+            },
+            {
+              "chunk": "還好啦～",
+              "pinyin": "hái hǎo la~",
+              "meaning": "Cũng tàm tạm thôi / Không đến nỗi nào / Khiêm tốn.",
+              "vs_textbook": "Khi ai đó khen hoặc hỏi có mệt/khó không, dùng thay cho '還可以'.",
+              "tips": "Ngữ điệu kéo nhẹ âm cuối."
+            }
+          ],
+          "frames": [
+            {
+              "pattern": "難怪...！",
+              "pinyin": "Nánguài...!",
+              "meaning": "Thảo nào... / Hóa ra là vậy!",
+              "example_hanzi": "難怪他今天沒來，原來是生病了！",
+              "example_pinyin": "Nánguài tā jīntiān méi lái, yuánlái shì shēngbìng le!",
+              "example_vn": "Thảo nào hôm nay nó không đến, hóa ra là bị ốm!"
+            },
+            {
+              "pattern": "要看...欸",
+              "pinyin": "Yào kàn... èi",
+              "meaning": "Còn phải tùy vào... chứ!",
+              "example_hanzi": "這要看天氣欸，下雨的話就不去了。",
+              "example_pinyin": "Zhè yào kàn tiānqì èi, xiàyǔ de huà jiù bù qù le.",
+              "example_vn": "Cái này còn tùy thời tiết chứ, mưa thì thôi không đi."
+            }
+          ],
+          "challenges": [
+            {
+              "situation": "Bạn bạn kể: 'Hôm nay tao bốc thăm trúng vé máy bay đi Nhật nè!' Bạn phản xạ ngạc nhiên ngay lập tức thế nào?",
+              "correct": "真的假的？！",
+              "pinyin": "Zhēn de jiǎ de?!",
+              "acceptable": ["真的假的", "zhen de jia de", "zhendejiade"]
+            },
+            {
+              "situation": "Đồng nghiệp hỏi: 'Cậu thấy dự án này khó lắm không?' Bạn muốn đáp khiêm tốn 'Cũng tàm tạm, không khó lắm đâu', nói thế nào?",
+              "correct": "還好啦，沒那麼難。",
+              "pinyin": "Hái hǎo la, méi nàme nán.",
+              "acceptable": ["還好啦", "hai hao la", "haihaola"]
+            }
+          ]
+        },
+        {
+          "id": "A2_FAVORS",
+          "title": "Cấu trúc nhờ vả & Lịch sự chuẩn Đài (Polite Requests)",
+          "context": "Nhờ người khác làm gì một cách tự nhiên, lịch thiệp, không bị cộc lốc.",
+          "chunks": [
+            {
+              "chunk": "不好意思，可以幫我...一下嗎？",
+              "pinyin": "Bù hǎoyìsi, kěyǐ bāng wǒ ... yíxià ma?",
+              "meaning": "Ngại quá / Xin lỗi, có thể giúp tôi ... một chút được không?",
+              "vs_textbook": "Người Đài dùng '不好意思' nhiều gấp 10 lần '對不起'. Cụm '幫我...一下' là thần chú.",
+              "tips": "Đi làm, mua hàng, gọi món đều áp dụng được."
+            },
+            {
+              "chunk": "麻煩你...",
+              "pinyin": "Máfán nǐ...",
+              "meaning": "Phiền bạn / Nhờ bạn...",
+              "vs_textbook": "Lịch sự và trang trọng hơn 請 khi nhờ người khác.",
+              "tips": "Ví dụ: 麻煩你借過一下 (Phiền bạn cho tôi đi qua chút)."
+            },
+            {
+              "chunk": "方便的話...",
+              "pinyin": "Fāngbiàn de huà...",
+              "meaning": "Nếu tiện thì...",
+              "vs_textbook": "Cách nói cực kỳ tâm lý, tránh tạo áp lực cho đối phương.",
+              "tips": "Ví dụ: 方便的話，幫我看一下 (Nếu tiện xem giúp tôi một chút)."
+            }
+          ],
+          "frames": [
+            {
+              "pattern": "不好意思，可以幫我 + [Động từ] + 一下嗎？",
+              "pinyin": "Bù hǎoyìsi, kěyǐ bāng wǒ [verb] yíxià ma?",
+              "meaning": "Xin lỗi, có thể giúp tôi [làm gì] một chút không?",
+              "example_hanzi": "不好意思，可以幫我拍照一下嗎？",
+              "example_pinyin": "Bù hǎoyìsi, kěyǐ bāng wǒ pāizhào yíxià ma?",
+              "example_vn": "Xin lỗi, có thể chụp giúp tôi kiểu ảnh được không?"
+            }
+          ],
+          "challenges": [
+            {
+              "situation": "Muốn nhờ người qua đường chụp hộ một bức ảnh, dùng mẫu câu lịch sự chuẩn Đài:",
+              "correct": "不好意思，可以幫我拍張照嗎？",
+              "pinyin": "Bù hǎoyìsi, kěyǐ bāng wǒ pāi zhāng zhào ma?",
+              "acceptable": ["不好意思，可以幫我拍照一下嗎？", "buhaoyisi keyi bang wo pai zhao ma"]
+            }
+          ]
+        },
+        {
+          "id": "A2_DECISIONS",
+          "title": "Ra quyết định, thỏa hiệp & Từ chối khéo (Decisions & Social)",
+          "context": "Đi ăn uống, hẹn hò, chọn món, từ chối không gây mất lòng.",
+          "chunks": [
+            {
+              "chunk": "看你啊，我都OK！",
+              "pinyin": "Kàn nǐ a, wǒ dōu OK!",
+              "meaning": "Tùy bạn thôi, tôi thế nào cũng được!",
+              "vs_textbook": "Người Đài rất thích nói chen tiếng Anh 'OK', tự nhiên hơn '我隨便'.",
+              "tips": "Tránh dùng chữ '隨便' (suíbiàn) vì nghe dễ bị hiểu là bất cần/bực bội."
+            },
+            {
+              "chunk": "改天吧！",
+              "pinyin": "Gǎitiān ba!",
+              "meaning": "Hôm khác nhé! / Để dịp khác nha!",
+              "vs_textbook": "Cách từ chối lịch sự kinh điển khi không muốn nhận lời rủ rê ngay.",
+              "tips": "Nếu không hẹn ngày cụ thể thì ngầm hiểu là từ chối khéo."
+            },
+            {
+              "chunk": "算了吧，太麻煩了。",
+              "pinyin": "Suànle ba, tài máfán le.",
+              "meaning": "Thôi bỏ đi, phiền phức quá.",
+              "vs_textbook": "Bộc lộ suy nghĩ dứt khoát.",
+              "tips": "Dùng khi thấy việc gì quá rườm rà hoặc không đáng bỏ công."
+            },
+            {
+              "chunk": "CP值很高 / 很划算",
+              "pinyin": "CP zhí hěn gāo / hěn huásuàn",
+              "meaning": "Đáng tiền / Tỷ lệ giá trị trên giá tiền cực tốt / Rất hời.",
+              "vs_textbook": "Người Đài đi mua đồ, ăn uống chỉ nói 'CP值高', hầu như không dùng '便宜又好'.",
+              "tips": "Từ quốc dân Đài Loan (Cost-Performance ratio)."
+            }
+          ],
+          "frames": [
+            {
+              "pattern": "其實...，只是...",
+              "pinyin": "Qíshí..., zhǐshì...",
+              "meaning": "Thực ra thì..., chỉ là...",
+              "example_hanzi": "其實我想去，只是今天有點累。",
+              "example_pinyin": "Qíshí wǒ xiǎng qù, zhǐshì jīntiān yǒudiǎn lèi.",
+              "example_vn": "Thực ra em cũng muốn đi, chỉ là hôm nay hơi mệt chút."
+            }
+          ],
+          "challenges": [
+            {
+              "situation": "Bạn bè rủ đi ăn hỏi bạn muốn ăn lẩu hay nướng, bạn muốn bảo 'Tùy cậu, ăn gì tớ cũng duyệt':",
+              "correct": "看你啊，我都OK！",
+              "pinyin": "Kàn nǐ a, wǒ dōu OK!",
+              "acceptable": ["看你啊", "kan ni a", "wo dou ok", "我都ok"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
