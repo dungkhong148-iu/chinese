@@ -18,3 +18,8 @@ desktop.ini
 # VS Code (giữ settings.json cho copy/paste chuột)
 .vscode/*
 !.vscode/settings.json
+
+# Local tokens
+data/.git_token
+data/.token
+

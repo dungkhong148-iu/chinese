@@ -71,7 +71,8 @@ Khi chấm bài, Agy **tuyệt đối không chê bai một chiều** hay ép bu
   - `/process`: Xem chân dung hồ sơ trong `process.md`.
   - Gõ trực tiếp chữ Hán, Bính âm, Hán Việt hoặc tiếng Việt để tra cứu từ điển nhanh.
 - **Học tập trên điện thoại (Termux / Linux)**:
-  - File `hoc.sh`: Tự động kéo bài mới từ Git về, mở 10 câu phản xạ, làm xong tự đẩy kết quả lên Git.
+  - File `hoc.py`: Tự động kéo bài mới từ Git về, mở 10 câu phản xạ, làm xong tự lưu & đẩy kết quả lên Git 100% bằng Python thuần (chạy: `python hoc.py`).
+  - Hỗ trợ cài token 1 lần không bao giờ bị hỏi username: `python hoc.py --token <ghp_xxx>`.
 - **Phím tắt nhanh trong chat với Agy**:
   - `.` (dấu chấm ở đầu câu): Chuẩn bị 10 câu hỏi cho phiên mới vào `data/session_input.json`.
   - `,` (dấu phẩy ở đầu câu): Đã làm xong trong terminal, yêu cầu Agy chấm bài và cố vấn ngay.
