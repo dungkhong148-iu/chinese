@@ -17,7 +17,7 @@ echo ""
 echo "=================================================="
 echo "  [3/3] Đang lưu và đẩy kết quả lên Git..."
 echo "=================================================="
-git add data/session_output.json progress.json data/vocab.json process.md
+git add data/session_output.json data/session_input.json data/session_queue.json data/history/ progress.json data/vocab.json process.md
 
 if git diff --staged --quiet; then
     echo "[✓] Không có dữ liệu mới cần đồng bộ."

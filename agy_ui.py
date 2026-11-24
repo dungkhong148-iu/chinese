@@ -514,9 +514,22 @@ def cmd_session_run(args=None):
     session_id = session_data.get("session_id", datetime.now().strftime("session_%Y%m%d_%H%M%S"))
     total_q = len(questions)
 
+    queue_file = BASE_DIR / "data" / "session_queue.json"
+    queue_count = 0
+    if queue_file.exists():
+        try:
+            with open(queue_file, "r", encoding="utf-8") as qf:
+                qd = json.load(qf)
+                if isinstance(qd, list):
+                    queue_count = len(qd)
+        except Exception:
+            pass
+
     intro_lines = [
         f"{BOLD}Chủ đề:{RESET} {title}",
     ]
+    if queue_count > 0:
+        intro_lines.append(f"{YELLOW}Hàng đợi bài sẵn:{RESET} Còn {BOLD}{queue_count}{RESET} bài tiếp theo sau bài này.")
     if story_arc:
         intro_lines.append(f"{YELLOW}Cốt truyện:{RESET} {BOLD}{story_arc}{RESET}")
     intro_lines.extend([
@@ -612,15 +625,45 @@ def cmd_session_run(args=None):
     with open(out_file, "w", encoding="utf-8") as f:
         json.dump(out_data, f, ensure_ascii=False, indent=2)
 
+    # Luu lich su khong lo bi ghi de
+    hist_dir = BASE_DIR / "data" / "history"
+    hist_dir.mkdir(parents=True, exist_ok=True)
+    with open(hist_dir / f"{session_id}_output.json", "w", encoding="utf-8") as hf:
+        json.dump(out_data, hf, ensure_ascii=False, indent=2)
+
+    # Tu dong nap bai tiep theo neu co hang doi
+    queue_msg = ""
+    if queue_file.exists():
+        try:
+            with open(queue_file, "r", encoding="utf-8") as qf:
+                qd = json.load(qf)
+            if isinstance(qd, list) and len(qd) > 0:
+                next_session = qd.pop(0)
+                with open(in_file, "w", encoding="utf-8") as inf:
+                    json.dump(next_session, inf, ensure_ascii=False, indent=2)
+                with open(queue_file, "w", encoding="utf-8") as qf:
+                    json.dump(qd, qf, ensure_ascii=False, indent=2)
+                queue_msg = f"Đã tự động nạp bài tiếp theo: {BOLD}{next_session.get('title')}{RESET} (Còn {len(qd)} bài sẵn)"
+        except Exception:
+            pass
+
     avg_spd = round(total_duration / len(responses), 1) if responses else 0
     done_lines = [
         f"{GREEN}✓ HOÀN THÀNH {len(responses)}/{total_q} CÂU HỎI!{RESET}",
         f"Tổng thời gian: {BOLD}{total_duration}s{RESET} (Trung bình: {avg_spd}s/câu)",
         f"File kết quả  : {CYAN}{out_file}{RESET}",
+    ]
+    if queue_msg:
+        done_lines.extend([
+            "---",
+            f"{YELLOW}▶ [Hàng đợi]{RESET}: {queue_msg}",
+            f"Bạn có thể gõ {YELLOW}/run{RESET} để làm bài tiếp ngay hoặc gõ {YELLOW},{RESET} để chấm bài vừa xong."
+        ])
+    done_lines.extend([
         "---",
         f"{BOLD}Bước tiếp theo:{RESET} Báo agy CLI {YELLOW}', (dấu phẩy)'{RESET} hoặc {YELLOW}'Chấm điểm phiên vừa làm'{RESET}",
         "để nhận phân tích chi tiết và cập nhật tiến độ."
-    ]
+    ])
     draw_box("KẾT THÚC PHIÊN LUYỆN TẬP", done_lines, color=GREEN)
 
 
