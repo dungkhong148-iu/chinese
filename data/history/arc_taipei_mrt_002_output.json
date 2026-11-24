@@ -1,0 +1,131 @@
+{
+  "session_id": "arc_taipei_mrt_002",
+  "title": "HÀNH TRÌNH ĐÀI BẮC 2: SÁNG THỨC GIẤC & ĐI MRT MUA THẺ DÙNG CẢ TUẦN",
+  "story_arc": "Sáng sớm ngày đầu tiên ở Đài Bắc, bạn thức dậy tràn trề năng lượng. Bạn hỏi lễ tân chỗ ăn sáng truyền thống, ra tiệm gọi món, vào ga MRT mua thẻ EasyCard (悠遊卡), gặp chút sự cố tại cửa soát vé và hẹn gặp bạn thân.",
+  "started_at": "2026-11-24T22:52:18.148959",
+  "completed_at": "2026-11-24T23:16:24.360068",
+  "total_questions": 10,
+  "duration_seconds": 1446.2,
+  "responses": [
+    {
+      "id": 1,
+      "act": 1,
+      "act_title": "[HỒI 1/10: HỎI LỄ TÂN QUÁN ĂN SÁNG ĐỊA PHƯƠNG]",
+      "plot_progression": "Bạn bước xuống sảnh khách sạn. Cô bé lễ tân mỉm cười chào buổi sáng và hỏi bạn có cần hỗ trợ gì không.",
+      "context": "Sảnh lễ tân khách sạn lúc 8h00 sáng",
+      "speaker": "Lễ tân Tiểu Mẫn",
+      "hanzi": "早安！昨晚睡得好嗎？今天有什麼安排，需要幫您叫車嗎？",
+      "target": "早安！不用叫車，我想在附近隨便吃點早餐，請問這附近有推薦的傳統早餐店嗎？",
+      "user_answer": "麻煩你了，而且附近有傳統市場嗎，我要去吃早餐yixia",
+      "time_spent_seconds": 104.6
+    },
+    {
+      "id": 2,
+      "act": 2,
+      "act_title": "[HỒI 2/10: GỌI BỮA SÁNG ĐÀI LOAN ĐÔNG ĐÚC]",
+      "plot_progression": "Theo lời lễ tân, bạn đến tiệm bánh nướng sữa đậu nành đông nghẹt khách. Bác chủ tiệm đang rán trứng thoăn thoắt và hỏi bạn dùng gì.",
+      "context": "Quầy gọi món tiệm ăn sáng truyền thống",
+      "speaker": "Bác chủ tiệm早餐",
+      "hanzi": "帥哥，要吃什麼？內用還是外帶？蛋餅、油條都有喔！",
+      "target": "老闆，內用，我要一份起司蛋餅，還有一杯熱豆漿，謝謝！",
+      "user_answer": "老闆娘，一份油條，一杯豆漿內用",
+      "time_spent_seconds": 354.8
+    },
+    {
+      "id": 3,
+      "act": 3,
+      "act_title": "[HỒI 3/10: BỊ HỎI VỀ ĐỘ NGỌT ĐẬU NÀNH & DÙNG TÚI]",
+      "plot_progression": "Bác chủ tiệm múc sữa đậu nành và hỏi thêm về khẩu vị cũng như có cần túi nilong không.",
+      "context": "Bàn chế biến đồ uống tiệm ăn sáng",
+      "speaker": "Bác chủ tiệm早餐",
+      "hanzi": "好嘞！豆漿要清漿（無糖）還是微糖？要買袋子裝嗎？",
+      "target": "我要微糖的就好，內用不用袋子，麻煩你了！",
+      "user_answer": "微糖吧，我內用所以不用袋子誒",
+      "time_spent_seconds": 94.3
+    },
+    {
+      "id": 4,
+      "act": 4,
+      "act_title": "[HỒI 4/10: TIẾN VÀO GA MRT & HỎI MUA THẺ EASYCARD]",
+      "plot_progression": "Ăn xong, bạn đi bộ sang ga MRT gần nhất. Nhìn máy bán vé tự động xếp hàng dài, bạn tiến lại quầy dịch vụ ga để hỏi mua thẻ.",
+      "context": "Quầy thông tin / Dịch vụ hành khách ga MRT (捷運站詢問處)",
+      "speaker": "Nhân viên ga MRT",
+      "hanzi": "先生您好，需要什麼協助嗎？",
+      "target": "你好，我想買一張悠遊卡，順便加值五百塊，請問總共多少錢？",
+      "user_answer": "你好，我可以在哪裡買悠遊卡？順便我還沒了解怎麼買車票",
+      "time_spent_seconds": 314.2
+    },
+    {
+      "id": 5,
+      "act": 5,
+      "act_title": "[HỒI 5/10: TRẢ TIỀN & NHẬN TIỀN THỐI (RÈN DÙNG TỪ 找錢)]",
+      "plot_progression": "Nhân viên thông báo phí thẻ 100 tệ, nạp 500 là 600 tệ. Bạn đưa tờ 1000 tệ (大鈔) và nhận tiền thối.",
+      "context": "Quầy dịch vụ ga MRT",
+      "speaker": "Nhân viên ga MRT",
+      "hanzi": "卡片工本費一百，加值五百，一共六百元。收您一千元，找您四百元，卡片請收好！",
+      "target": "好的，謝謝你！請問搭捷運直接感應這張卡就可以了嗎？",
+      "user_answer": "收好了，謝謝你，這樣就是感應就好嗎？",
+      "time_spent_seconds": 148.3
+    },
+    {
+      "id": 6,
+      "act": 6,
+      "act_title": "[HỒI 6/10: SỰ CỐ CỬA SOÁT VÉ BÁO ĐÈN ĐỎ & NHỜ XỬ LÝ (處理)]",
+      "plot_progression": "Bạn quẹt thẻ vào cổng nhưng màn hình báo đèn đỏ 'Bíp bíp' và cửa không mở. Bác nhân viên trực cửa bước lại kiểm tra.",
+      "context": "Cửa kiểm soát vé ga MRT (閘門處)",
+      "speaker": "Nhân viên kiểm soát vé",
+      "hanzi": "帥哥，剛才感應好像沒成功喔！卡片給我看一下。",
+      "target": "不好意思，好像卡住了，麻煩你幫我處理一下，謝謝！",
+      "user_answer": "麻煩你幫我處理一下，我是第一次試過樣子",
+      "time_spent_seconds": 76.7
+    },
+    {
+      "id": 7,
+      "act": 7,
+      "act_title": "[HỒI 7/10: XIN ĐƯỜNG TRÊN TOA TÀU ĐÔNG ĐÚC]",
+      "plot_progression": "Lên tàu điện, toa xe chật ních người giờ cao điểm. Đến ga chuyển tuyến, bạn cần lách người ra cửa bị một người đứng chắn.",
+      "context": "Bên trong toa tàu MRT giờ cao điểm",
+      "speaker": "Hành khách đứng chắn cửa",
+      "hanzi": "（Đứng sát cửa, chăm chú nhìn điện thoại không để ý xung quanh）",
+      "target": "不好意思，借過一下，我要下車，謝謝！",
+      "user_answer": "不好意思，借過一下，謝謝",
+      "time_spent_seconds": 47.2
+    },
+    {
+      "id": 8,
+      "act": 8,
+      "act_title": "[HỒI 8/10: BẠN THÂN GỌI ĐIỆN HỐI & NHỜ CHỜ MỘT CHÚT (稍微)]",
+      "plot_progression": "Vừa ra khỏi sân ga Taipei Main Station, bạn thân người Đài Loan gọi điện hỏi thăm vị trí.",
+      "context": "Sảnh ngầm ga Taipei Main Station (台北車站)",
+      "speaker": "Bạn thân A-Hào",
+      "hanzi": "喂！你到了嗎？我已經在台北車站的大廳等你了捏，你在哪裡？",
+      "target": "我剛出捷運站，這裡人超多的，請稍微等我五分鐘，我馬上過去！",
+      "user_answer": "到了到了，你是什麼可愛狗呢",
+      "time_spent_seconds": 72.9
+    },
+    {
+      "id": 9,
+      "act": 9,
+      "act_title": "[HỒI 9/10: BẠN HỎI CÓ ĐÓI KHÔNG (RÈN KHÔNG NÓI '我有餓')]",
+      "plot_progression": "Gặp nhau ở cột đồng hồ ga, bạn thân vỗ vai cười lớn và hỏi bạn trưa nay tính ăn gì, bụng có đói không.",
+      "context": "Cột đồng hồ đại sảnh ga Đài Bắc",
+      "speaker": "Bạn thân A-Hào",
+      "hanzi": "哈哈終於碰面了！你現在肚子會餓嗎？要不要先去吃點好料的？",
+      "target": "我現在肚子超餓的！聽說西門町有家麻辣鍋很有名，我們去吃那個好不好？",
+      "user_answer": "超餓了，你有什麼高建就建議一下吧",
+      "time_spent_seconds": 125.0
+    },
+    {
+      "id": 10,
+      "act": 10,
+      "act_title": "[HỒI 10/10: BẠN BẢO TÙY MÀY VÀ CHỐT KÈO XONG XUÔI (搞定)]",
+      "plot_progression": "Bạn thân hào hứng đồng ý, bảo gu ăn uống của bạn đỉnh chóp, tùy bạn quyết định.",
+      "context": "Lối ra đại sảnh ga hướng Tây Môn",
+      "speaker": "Bạn thân A-Hào",
+      "hanzi": "讚喔！我都看你啊，你決定就好！那家要先排隊捏，我們走吧！",
+      "target": "太好了，那就搞定了！我們現在就搭捷運過去吧！",
+      "user_answer": "好，每次都我看你，這次讓我吧",
+      "time_spent_seconds": 108.2
+    }
+  ]
+}
