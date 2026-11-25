@@ -1,3 +1,3 @@
 # HỒ SƠ TIẾN TRÌNH & PHONG CÁCH NGƯỜI HỌC (PROCESS)
 
-- [2026-11-24] Trình độ A2+ phản xạ dạn dĩ, EQ ứng biến và hòa nhập rất tốt (chủ động đề xuất ghép bàn 併桌, nếm món địa phương, cảm ơn tài xế); điểm yếu cốt tử là thói quen dịch word-by-word từ tiếng Việt dẫn đến dùng sai từ hài hước hoặc gây sượng (nhầm 还/找 tiền thối, nhầm ngôi "你要點", dịch "別吃我再來", nói "我有餓"); cần rèn phản xạ theo khối cụm (chunks) tự nhiên thay vì tự ghép chữ rời rạc.
+- [2026-11-25] Trình độ A2+ phản xạ giao tiếp và cảm xúc rất nhanh nhạy (dùng tốt 真的假的, 太扯了, 搞定了, 慘了, 別客氣, 稍微); lỗi dịch word-by-word đã giảm nhiều nhưng còn vướng trật tự "稍微要+V+一下", dùng nhầm trợ từ "我要走吧" (đúng là 我該走了), nhầm "是哪裡走" và lỗi chọn chữ Pinyin "異性" thay cho "一定".

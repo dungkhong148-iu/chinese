@@ -1,0 +1,131 @@
+{
+  "session_id": "arc_gaoxiong_hsr_004",
+  "title": "HÀNH TRÌNH ĐÀI BẮC 4: ĐỔI VÉ CAO THIẾT (高鐵) & PHA GHÉP BÀN (併桌) DỞ KHÓC DỞ CƯỜI",
+  "story_arc": "Bạn đến ga Đài Bắc đổi giờ vé tàu cao tốc (高鐵) đi Tả Doanh - Cao Hùng. Trong lúc chờ giờ lên tàu, bạn ghé quán cà phê Louisa làm việc, gặp tình huống khách xin ghép bàn (併桌), rồi tá hỏa bỏ quên túi xách (袋子) và phải nhờ nhân viên xử lý (處理).",
+  "started_at": "2026-11-25T15:46:17.836113",
+  "completed_at": "2026-11-25T16:06:46.989165",
+  "total_questions": 10,
+  "duration_seconds": 1229.1,
+  "responses": [
+    {
+      "id": 1,
+      "act": 1,
+      "act_title": "[HỒI 1/10: TẠI QUẦY VÉ CAO THIẾT (高鐵售票處) MUỐN ĐỔI CHUYẾN SỚM HƠN]",
+      "plot_progression": "Đến sảnh tàu cao tốc B1 ga Đài Bắc, bạn rút số thứ tự tới quầy vé để đổi chuyến tàu sớm hơn chuyến cũ 1 tiếng.",
+      "context": "Quầy bán vé tàu cao tốc Đài Loan (台灣高鐵售票處)",
+      "speaker": "Nhân viên quầy vé Cao Thiết",
+      "hanzi": "您好，請問今天需要辦理什麼業務？買票還是取票？",
+      "target": "小姐你好，我想辦理換票，把去左營的高鐵票改到提早一班，請問還有位子嗎？",
+      "user_answer": "你好，我早來一個小時，要上車更早更好，可以幫我嗎",
+      "time_spent_seconds": 133.7
+    },
+    {
+      "id": 2,
+      "act": 2,
+      "act_title": "[HỒI 2/10: CHỌN VỊ TRÍ GHẾ SÁT CỬA SỔ (靠窗) HAY LỐI ĐI (靠走道)]",
+      "plot_progression": "Cô nhân viên kiểm tra hệ thống và báo chuyến lúc 16:30 vẫn còn chỗ, hỏi sở thích chỗ ngồi của bạn.",
+      "context": "Quầy bán vé tàu cao tốc",
+      "speaker": "Nhân viên quầy vé Cao Thiết",
+      "hanzi": "四點半這班還有座位，請問您喜歡靠窗還是靠走道？標準車廂可以嗎？",
+      "target": "我想選靠窗的位子，標準車廂就可以了，謝謝！",
+      "user_answer": "太好了，靠窗的座位最好了，我稍微要拍影片一下",
+      "time_spent_seconds": 193.5
+    },
+    {
+      "id": 3,
+      "act": 3,
+      "act_title": "[HỒI 3/10: PHÍ THỦ TỤC VÀ NHẬN VÉ MỚI (CHÚ Ý TỪ 找錢)]",
+      "plot_progression": "Nhân viên in vé mới, bạn lần đầu đổi vé nên được miễn phí thủ tục đổi lần 1.",
+      "context": "Quầy bán vé tàu cao tốc",
+      "speaker": "Nhân viên quầy vé Cao Thiết",
+      "hanzi": "高鐵票第一次改票免手續費喔！這是您的新車票，四點十五分開始在第二月台剪票上車。",
+      "target": "好的，太感謝你了！請問候車大廳附近有可以坐下來喝咖啡的地方嗎？",
+      "user_answer": "明白了，謝謝，第二月台是哪裡走啊？",
+      "time_spent_seconds": 163.5
+    },
+    {
+      "id": 4,
+      "act": 4,
+      "act_title": "[HỒI 4/10: VÀO QUÁN CÀ PHÊ GỌI NƯỚC & HỎI Ổ CẮM ĐIỆN]",
+      "plot_progression": "Còn gần 1 tiếng trước giờ lên tàu, bạn vào quán Louisa Coffee đối diện sảnh chờ để sạc điện thoại và làm việc.",
+      "context": "Quầy gọi đồ quán cà phê Louisa",
+      "speaker": "Thu ngân quán cà phê",
+      "hanzi": "先生您好，今天想喝點什麼？內用還是外帶？",
+      "target": "內用，我要一杯冰拿鐵，不加糖，請問店裡有插座可以充電嗎？",
+      "user_answer": "一杯冰拿鐵就好了，請問你們有公共插座嗎，我稍微要充電一下",
+      "time_spent_seconds": 122.3
+    },
+    {
+      "id": 5,
+      "act": 5,
+      "act_title": "[HỒI 5/10: KHÁCH XIN GHÉP BÀN (LỊCH SỰ DÙNG '不介意的話' & '併桌')]",
+      "plot_progression": "Quán cà phê đông nghẹt không còn bàn trống đơn lẻ. Một bạn sinh viên đeo kính mang laptop lại gần bàn 4 chỗ của bạn.",
+      "context": "Bàn cà phê trong góc quán",
+      "speaker": "Bạn trẻ mang laptop",
+      "hanzi": "不好意思打擾了，現在店裡都客滿了，如果不介意的話，我可以跟您併桌嗎？",
+      "target": "完全沒問題，請坐請坐！我一點都不介意。",
+      "user_answer": "可以啊，別客氣",
+      "time_spent_seconds": 115.7
+    },
+    {
+      "id": 6,
+      "act": 6,
+      "act_title": "[HỒI 6/10: HỎI THĂM THỜI TIẾT CAO HÙNG VÀ BẮT CHUYỆN]",
+      "plot_progression": "Thấy bạn đang tra bản đồ Cao Hùng, bạn sinh viên cười thân thiện và bảo bạn ấy quê ở Cao Hùng.",
+      "context": "Bàn làm việc chung tại quán cà phê",
+      "speaker": "Bạn sinh viên ghép bàn",
+      "hanzi": "你要去高雄出差還是玩呀？我是高雄人捏！",
+      "target": "真的假的！我是第一次去高雄玩，請問那邊現在天氣怎麼樣？會很熱嗎？",
+      "user_answer": "真的假的，我正在往高雄見人，另外也去玩一下",
+      "time_spent_seconds": 135.1
+    },
+    {
+      "id": 7,
+      "act": 7,
+      "act_title": "[HỒI 7/10: GIỜ TÀU GẦN KỀ & TẠM BIỆT]",
+      "plot_progression": "Bạn sinh viên hào hứng giới thiệu thời tiết ấm áp. Bạn nhìn đồng hồ thấy đã 16h15, giờ tàu chạy cận kề.",
+      "context": "Bàn làm việc tại quán cà phê",
+      "speaker": "Bạn sinh viên ghép bàn",
+      "hanzi": "高雄現在天氣超舒服的，完全不用穿厚外套！對了，你的高鐵快開了吧？",
+      "target": "哎呀慘了，已經四點十五了！很高興認識你，我得趕快去月台了，拜拜！",
+      "user_answer": "慘了，對啊，我要走吧，再見",
+      "time_spent_seconds": 86.2
+    },
+    {
+      "id": 8,
+      "act": 8,
+      "act_title": "[HỒI 8/10: TÁ HỎA QUÊN TÚI ĐỒ (THỐT LÊN '太扯了吧')]",
+      "plot_progression": "Vừa chạy tới cổng soát vé ga Cao Thiết, bạn sờ túi mới tá hỏa: túi xách để quên ở chân bàn quán cà phê vừa nãy!",
+      "context": "Trước cửa soát vé tàu cao tốc ga Đài Bắc",
+      "speaker": "Bạn tự độc thoại hoảng hốt",
+      "hanzi": "（Bạn vừa thò tay tìm túi xách đựng đồ cá nhân vừa toát mồ hôi hột）",
+      "target": "天啊！太扯了吧，我竟然把隨身袋子忘在剛才的咖啡店裡了！",
+      "user_answer": "太扯了，忘了袋子！怎麼辦？？？！",
+      "time_spent_seconds": 65.7
+    },
+    {
+      "id": 9,
+      "act": 9,
+      "act_title": "[HỒI 9/10: CHẠY NGƯỢC LẠI QUÁN CÀ PHÊ NHỜ NHÂN VIÊN TÌM HỘ (XỬ LÝ - 處理)]",
+      "plot_progression": "Bạn ba chân bốn cẳng chạy thục mạng ngược về quán cà phê Louisa, thở hổn hển cầu cứu nhân viên quầy.",
+      "context": "Quầy pha chế quán cà phê Louisa",
+      "speaker": "Nhân viên quán cà phê Louisa",
+      "hanzi": "先生怎麼了？您跑得滿頭大汗的，有什麼東西掉了嗎？",
+      "target": "不好意思，我剛才坐在靠牆的位子，把一個黑色袋子忘在椅子上了，麻煩幫我處理找一下好嗎？",
+      "user_answer": "是啊，你們看到我的袋子嗎？我剛才在這裡喝咖啡",
+      "time_spent_seconds": 96.5
+    },
+    {
+      "id": 10,
+      "act": 10,
+      "act_title": "[HỒI 10/10: NHẬN LẠI TÚI ĐỒ, THỞ PHÀO '搞定了' & KỊP GIỜ LÊN TÀU]",
+      "plot_progression": "Cô nhân viên mỉm cười lấy chiếc túi đưa cho bạn: bạn sinh viên ghép bàn vừa nãy đã nhặt giao cho quầy.",
+      "context": "Quầy quán cà phê Louisa",
+      "speaker": "Nhân viên quán cà phê Louisa",
+      "hanzi": "是這個袋子對吧？剛才那位跟您併桌的同學幫您拿過來的，您檢查看看有沒有少東西！",
+      "target": "太感謝了，全都都在！幸好搞定了，台灣人真的太熱心了，謝謝你們！",
+      "user_answer": "搞定了，幸好有你們，下次見到那個同學異性好好感謝他，沒問題了走吧",
+      "time_spent_seconds": 116.8
+    }
+  ]
+}
