@@ -178,5 +178,65 @@
     "context": "如果不介意的話，要不要一起坐？",
     "status": "new",
     "created_at": "2026-11-24T00:37:49.092270"
+  },
+  {
+    "hanzi": "推薦",
+    "pinyin": "tuījiàn",
+    "han_viet": "Suy Tiến",
+    "meaning": "đề xuất; khuyến nghị, giới thiệu",
+    "style": "Đời sống",
+    "context": "老闆，請問你們店裡有什麼推薦的菜嗎？",
+    "status": "new",
+    "created_at": "2026-11-24T23:34:16.761943"
+  },
+  {
+    "hanzi": "傳統",
+    "pinyin": "chuántǒng",
+    "han_viet": "Truyền Thống",
+    "meaning": "truyền thống; tập quán",
+    "style": "Đời sống",
+    "context": "我今天早上想去吃台灣傳統早餐。",
+    "status": "new",
+    "created_at": "2026-11-24T23:34:33.566357"
+  },
+  {
+    "hanzi": "油條",
+    "pinyin": "yóutiáo",
+    "han_viet": "Dầu Điều",
+    "meaning": "dầu cháo quẩy (quẩy chiên)",
+    "style": "Đời sống",
+    "context": "老闆，我要一根油條配熱豆漿。",
+    "status": "new",
+    "created_at": "2026-11-24T23:35:00.567146"
+  },
+  {
+    "hanzi": "豆漿",
+    "pinyin": "dòujiāng",
+    "han_viet": "Đậu Tương",
+    "meaning": "sữa đậu nành",
+    "style": "Đời sống",
+    "context": "這家店的冰豆漿很濃很好喝，也不會太甜。",
+    "status": "new",
+    "created_at": "2026-11-24T23:35:33.639610"
+  },
+  {
+    "hanzi": "順便",
+    "pinyin": "shùnbiàn",
+    "han_viet": "Thuận Tiện",
+    "meaning": "nhân tiện, tiện thể",
+    "style": "Đời sống",
+    "context": "我去超商買水，順便幫你買一杯咖啡吧！",
+    "status": "new",
+    "created_at": "2026-11-24T23:36:12.315565"
+  },
+  {
+    "hanzi": "感應",
+    "pinyin": "gǎnyìng",
+    "han_viet": "Cảm Ưng",
+    "meaning": "quẹt thẻ cảm ứng, phản hồi cảm ứng",
+    "style": "Đời sống",
+    "context": "直接把悠遊卡放上去感應就可以了。",
+    "status": "new",
+    "created_at": "2026-11-24T23:37:27.429175"
   }
 ]
